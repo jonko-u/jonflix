@@ -6,7 +6,7 @@ Welcome to this project, an application built using cutting-edge technologies an
 
 ## Preview
 
-![App Screenshot](/screenshots/screenshot1.png)
+![App Screenshot](/screenshot1.png)
 
 
 ## Acknowledgements
